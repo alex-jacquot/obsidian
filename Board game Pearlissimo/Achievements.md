@@ -1,0 +1,47 @@
+---
+notion-id: 2dcb5e76-7773-80ae-8c91-e609c62e616f
+---
+- Accelerated: Play 3 turns in a row (Done with Alex)
+- Limit break: Have 10 cards in your hand (Done with Alex)
+- Project Manager: Draw 4 cards in a single turn (without cut the line) (Done with Alex)
+- President’s blessing: Find a unexpected combo (Done with Doruk)
+- Classic GG: Win a game with 15 *Power Pearls*  (Done with Doruk)
+- Securing positions: Have 8+Business Influence (Done with Doruk)
+- Chained call: Use 50% off on Wild Card and then redeem another Voucher. (Done with Nikola)
+- Rainbow Overload : Draw 2 *Rainbow *cards at once. (Done with Laura)
+- Small consolation : Lose your first game. (Done with Laura, Nikola, Alex)
+- Projection of power: Draw 5 cards in a single turn (without *Cut the line*)
+- Untraditional ways: Win a game with 15 *Power Pearls* using less than 3 *Vouchers*
+- Architect’s reward: Build the Unicorn statue and win the game.
+- Can’t hurt me: Build the Unicorn Statue with *Magic Mud *and *Industrial espionage *active
+- Second chance: Copy cat a card that was just Nope’d
+- What color is this? : Bluff a 5 color project bank with all 5 cards
+- Hyperspeed! : Play 4 turns in a row
+- Rainbows of Rainbows: Pay the *Rainbow Gem* with 2 or more Rainbow Cards
+- “Nuh uh”: *Nope *another *Nope *card
+- Criminal business: Play* Government Files* and *Quartermaster* in the same game
+- Protected from the Storm: Save one of your active *Permanent *Card from *Mass Sabotage *using *Personal Security*
+- Free Statue: Place 3* Great Unicorn *parts while you have “Expanding Business”
+- Three of a Kind: Play 3 of the same *Grouped *Cards
+- Full House : Play 5 or more *Grouped *Cards at once
+- Extra fee: Overpay using *Trading Card*
+- Prince of Darkness: Bluff 5 cards without using *Complete Obsfucation*
+- Recycling is my jam: Get 5 *Stars *in a single *discard *action
+- No secrets here: Do a fully revealed payment with *White Paw Spell* when you have 3 possible Bluffs
+- The beauty of Capitalism: Play *Elite Plunder* while already being the richest person
+- By law it is mine! : Use a Victory Card voucher to bypass *Heritage Protection * from another player
+- Play *Surprise *investigation against a player who's played *Complete Obsfucation* for the payment
+- Can’t investigate myself : Get 2 or more Stars from *Opposition Investigation *
+- Looking in the trash: Grab a *Great Unicorn *using Reclamation.
+- Chaotic Evil: HAve 8+ Criminal Influence
+- Fear of spending: Have 20+ Stars
+- Waiting to strike: Discard *Dragon’s Hoard* from another player active *Permanent* Card 
+
+Other
+
+- Draw 6 cards with “A true cooperation”
+- “Am I getting that Star?: Play the Warden when someone is playing the Corrupted Warden card
+- The right kind of regicide:  Play *Toppled Dynasty* as the **Mafioso**
+- Win a game without using any vouchers
+- Lose your first game
+- 

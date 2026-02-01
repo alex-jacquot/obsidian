@@ -1,0 +1,11 @@
+---
+notion-id: 2e3b5e76-7773-8092-a5f5-da08a45cf303
+---
+- Reach out to communites who play board games
+- Board games arena + Steam
+- Contact board games influencers
+- Contact Asmodee [https://www.asmodee.fr/contact/](https://www.asmodee.fr/contact/)
+- Potentially sell games on Amazon
+- IndieGogo Kickstarter
+- Create alt reddit account
+- Create Discord with special places for crownfunders
