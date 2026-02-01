@@ -1,0 +1,41 @@
+4 guys playing Poker
+
+- River shows : K K 3 4 6
+- Guy 1 : Shows a Full-House 3 3
+- Guys 2: Showing a potential higher Full-house K then?
+- Guy 3: Shows a 5 spades, then a 6, then blackjack with a Queen.
+- Guys 4: Yeah we’re playing poker
+- Guy 1 : Why do you have 5 cards in your hand?
+- Guy 4: Aren’t we playing Texas Hold’em? 4 Aces
+- Guys 1: Jesus fucking christ guys.
+- Guy 2: Oh yeah well how about a Five of a kind? _Shows 5 Queens_
+- Guy 1:That’s literally not possible
+- Guy 2: Well I used a death card on my 2 to turn it into a Queen.
+- Guy 1: He’s playing fucking Balatro
+- Guys 3: I have Exodia
+- Guys 4: Nooo, reverse Uno.
+- Guys 3: Nooo.
+- Guy 1: Looking at the distance, bored with this BS.
+- Guy 2: Hey can I borrow your money?
+- Guy 1: No
+- Guy 2: Can I borrow your money please?
+- Guy 1: I said NO!
+- Guy 2 : Can I convince him?
+- Guy 5: Sure, roll a persuasion check.
+- Guy 2: 18
+- Guy 5: He gives you his money
+- Guy 1: Sure here you go. _gives his money._ Wait,no how? And who tf are you?
+- Guy 5: I’m.. the DM?
+- Guy 2: Alright I’ll buy an hotel for Leicester Square _places an hotel on a monopoly board_
+- Guy 3: Throws a chess queen and knocks down the hotel.
+- Guy 4: I summon my Pokemon fire, use attack.
+- Guy 2 / 3 and 4: turns their heads to the DM
+- Guy 5: Yeah she’s Vulnerable to Fire damage she’s dead.
+- Guy 4: Yes doing a gesture with his fist
+- Guy 2: Ok I’ll redeem my cards to spawn 5 soldiers, and I’ll place them… here _places on a dixit card_
+- Guy 5: Nope, that was my card.
+- Guy 1: Ok everyone stop
+- Guy 1: Look guys, I know I’m leaving soon and that you want to try out all board games before I’m gone. But we can’t get, the simplest of games spent with the best people is worth all games in the world.
+- Guy 5: After that speech, the whole party feels inspired…
+- Guy 1: Get out of my house
+- Guy 5: Sure

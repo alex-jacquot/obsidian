@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D Campaign suicide squad.md",
+                "file": "Professionnal/Skills and Cover Letter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D&D Campaign suicide squad"
+              "title": "Skills and Cover Letter"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 284.5
   },
   "right": {
     "id": "fdb1894a9121a942",
@@ -197,21 +197,29 @@
   },
   "active": "864f7b8ea4786807",
   "lastOpenFiles": [
+    "Professionnal/Programming/Technical Skills and Portfolio Cover letter.md",
+    "Professionnal/Skills and Cover Letter.md",
+    "Professionnal/Programming/Typescript.md",
+    "Misc/Sketch board games.md",
+    "Professionnal/Companies to check.md",
+    "Dungeons and Dragons/D&D Campaign suicide squad.md",
+    "Misc",
+    "Projects",
+    "Professionnal",
     "Board game Pearlissimo.md",
-    "D&D Campaign suicide squad.md",
-    "Board game Roguelike chess.md",
-    "Board game Internet Finder.md",
-    "D&D board game.md",
-    "Board game DnD.md",
+    "Projects/Board game Roguelike chess.md",
+    "Projects/Board game Internet Finder.md",
+    "Projects/D&D board game.md",
+    "Projects/Board game DnD.md",
     "Untitled.base",
     "Books/BOOKS.md",
-    "JOKES.md",
+    "Misc/JOKES.md",
     "2026-01-31.md",
     "Dungeons and Dragons/D100 Reward and magic items.md",
     "Dungeons and Dragons/A Whisper in the Light/Campaign running.md",
     "Dungeons and Dragons/A Whisper in the Light/Campaign brainstorm.md",
     "Dungeons and Dragons/A Whisper in the Light",
-    "Board game Pearlissimo/#TODO.md",
+    "Projects/Board game Pearlissimo/#TODO.md",
     "Dungeons and Dragons",
     "Notion/DnD Adventures.md",
     "Notion/Write a book.md",
@@ -220,23 +228,15 @@
     "Notion/GenAI - ML.md",
     "Notion/Dungeons and Dragons.md",
     "Untitled.canvas",
-    "Programming/Typescript.md",
     "Notion/Jokes and stand-up.md",
     "Notion",
-    "Programming/React.md",
-    "Board game Pearlissimo/Playtesting.md",
-    "Board game Pearlissimo/Achievements.md",
-    "Board game Pearlissimo/Kickstarter pitch.md",
-    "Board game Pearlissimo/Board game Pearlissimo.md",
-    "Programming",
+    "Professionnal/Programming/React.md",
+    "Professionnal/Programming",
     "Poems",
     "Books",
-    "Board game Pearlissimo",
     "image 14.png",
     "image 13.png",
-    "Notion/Programming",
     "Poème SARA.jpeg",
-    "Notion/Poems",
     "dcf4e307-a2e1-467d-9fad-6a025f4a55f0.png",
     "image 12.png",
     "image 11.png",

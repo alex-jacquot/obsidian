@@ -6,8 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiDice",
-      "🎮"
+      "LiBinary",
+      "🏢",
+      "LiMusic",
+      "❔",
+      "🐉"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,6 +34,12 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Board game Pearlissimo": "🎮",
-  "D&D Campaign suicide squad.md": "LiDice"
+  "Projects/Board game Pearlissimo": "🎮",
+  "Dungeons and Dragons/D&D Campaign suicide squad.md": "LiDice",
+  "Books": "📚",
+  "Dungeons and Dragons": "🐉",
+  "Misc": "❔",
+  "Poems": "LiMusic",
+  "Professionnal": "🏢",
+  "Professionnal/Programming": "LiBinary"
 }
