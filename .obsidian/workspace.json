@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Typescript.md",
+                "file": "Professionnal/Skills and Cover Letter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Typescript"
+              "title": "Outline of Skills and Cover Letter"
             }
           },
           {
@@ -174,13 +174,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9825e7a4ff098244",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,13 +205,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "864f7b8ea4786807",
+  "active": "68287a723f986c62",
   "lastOpenFiles": [
-    "Professionnal/Programming/Technical Skills and Portfolio Cover letter.md",
+    "Traveling Anecdotes",
+    "Learning",
+    "Professionnal/Companies to check.md",
     "Professionnal/Skills and Cover Letter.md",
+    "2026-02-01.md",
+    "Professionnal/Programming/Technical Skills and Portfolio Cover letter.md",
     "Professionnal/Programming/Typescript.md",
     "Misc/Sketch board games.md",
-    "Professionnal/Companies to check.md",
     "Dungeons and Dragons/D&D Campaign suicide squad.md",
     "Misc",
     "Projects",
@@ -228,12 +241,9 @@
     "Notion/GenAI - ML.md",
     "Notion/Dungeons and Dragons.md",
     "Untitled.canvas",
-    "Notion/Jokes and stand-up.md",
     "Notion",
-    "Professionnal/Programming/React.md",
     "Professionnal/Programming",
     "Poems",
-    "Books",
     "image 14.png",
     "image 13.png",
     "Poème SARA.jpeg",

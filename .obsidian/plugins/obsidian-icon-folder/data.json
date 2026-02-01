@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPlane",
+      "🔠",
+      "LiLightbulb",
       "LiBinary",
-      "🏢",
-      "LiMusic",
-      "❔",
-      "🐉"
+      "🏢"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,8 @@
   "Misc": "❔",
   "Poems": "LiMusic",
   "Professionnal": "🏢",
-  "Professionnal/Programming": "LiBinary"
+  "Professionnal/Programming": "LiBinary",
+  "Learning": "LiLightbulb",
+  "Projects": "🔠",
+  "Traveling Anecdotes": "LiPlane"
 }

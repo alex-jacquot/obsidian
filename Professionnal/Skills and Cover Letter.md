@@ -1,7 +1,16 @@
-Most recently worked with [Celect.AI](http://Celect.AI)
+### Portfolio and Skills
 
-- Getting more familiar with the Next.JS / Tailwind / TypeScript / tRPC / Prisma / PostGreSQL / Azure tech stack
-- Helping make MCP
+#### Celect.ai (18 months)
+
+AI-recruiting platform, our final product is available at celect.ai
+
+- Getting more familiar with the **Next.JS / Tailwind / TypeScript / tRPC / Prisma / PostGreSQL / Azure tech stack**
+- Strong 
+- Marketing
+
+/
+Some corporate 
+Also worked on 
 
 Currently learning React / Expo
 
@@ -13,7 +22,9 @@ Next.JS / Firebase
 
 Web Scrapping
 
-A bit of teesting
+A bit of testing
+
+### Cover letter
 
 Hello hiring team,
 
