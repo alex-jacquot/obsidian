@@ -1,14 +1,46 @@
-### Portfolio and Skills
+### Professionnal Experiences
 
-#### Celect.ai (18 months)
+#### Developer / AI Engineer Celect.ai (18 months)
 
-AI-recruiting platform, our final product is available at celect.ai
+A modern AI-based ATS for recruiting, involving AI chatbots to help accomplish all grunt work using natural language.
 
 - Getting more familiar with the **Next.JS / Tailwind / TypeScript / tRPC / Prisma / PostGreSQL / Azure tech stack**
-- Strong 
-- Marketing
+- Strong meddling with AI, experience with Azure MCP
+- Some Devops with Github Actions
+- Business decisions and marketing campaign.
 
-/
+#### Accenture 
+
+- Collaborated with ServiceNow clients for medium-sized missions
+- Contributed to the local technology ecosystem and organised some tech
+conferences
+
+#### Tokenomeme 
+
+- Designed and developed a complete solid full-stack ecosystem with cloud infrastructure: Next.JS,Node.JS, Python, Solidity, ThirdWeb.js / Solidity, Google Cloud Platform.
+- Provided expertise for short and mid-term technical architectures and
+objectives
+- Took business-driving and other regular organizational in addition of all
+tech-related aspects
+- Led a team of 5 sub-contractors within the allocated resources and
+provided the processes for collaborative efficienc
+
+#### C&S
+
+Engineered and optimized data processing workflows for satellite imagery,
+adhering to PUS standard protocols, ensuring seamless data handling.
+- Developed an
+Java and
+AngularJS-based application to store real-time
+service data from a constellation of 12 satellites, enhancing data storage
+capabilities.
+- Conducted a theory thesis on data management and interface for
+constellations of thousands of satellites, contributing valuable insights to
+the field
+#### Others
+
+Currently learned React 
+
 Some corporate 
 Also worked on 
 
