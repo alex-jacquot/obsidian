@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Board game Pearlissimo/Playtesting.md",
+                "file": "Projects/Board game Pearlissimo/Rules brainstorming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Playtesting"
+              "title": "Rules brainstorming"
             }
           }
         ],
@@ -222,6 +222,7 @@
   },
   "active": "3f2b84bb122adc28",
   "lastOpenFiles": [
+    "Projects/Board game Pearlissimo/Playtesting.md",
     "Professionnal/Companies to check.md",
     "Projects/Board game Pearlissimo/Unity Demonstration.md",
     "Movies/LIST.md",
@@ -256,7 +257,6 @@
     "Projects/Board game Pearlissimo/#TODO.md",
     "Dungeons and Dragons",
     "Notion/DnD Adventures.md",
-    "Notion/Write a book.md",
     "Untitled.canvas",
     "Notion",
     "image 14.png",

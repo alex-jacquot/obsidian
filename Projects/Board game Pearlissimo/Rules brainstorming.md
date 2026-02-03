@@ -118,23 +118,6 @@ GROUPS OF CARDS:
 > 
 > White:
 
-> [!note]+ Each color has 1 mixed “Duo” industry with cost from that clan including rainbows
-
-
-> [!note]+ Enough cards that cost stars only
-
-
-> [!note]+ One card that cost “any project”
-
-
-> [!note]+ Red must have enough MasterMind and Criminal Influence cards
-
-
-> [!note]+ Green same
-
-
-> [!note]+ 
-
 
 Redeem a victory card, ingoring its requirements.
 
@@ -219,6 +202,11 @@ Redeemable lucky cards.
 
 !Spin the wheel: this project takes the form of any valid project from the open pile
 
+!Reroll : Wheel of fortune
+
+!Snitch: Reveral a players hand, if illegal get out of jail
+
+
 ### Changes
 
 - Insurance contract: Active only?
@@ -259,6 +247,10 @@ Ceo with 5 bm: remove 5bm
 Unicron protzction: except unicorns which vouchers have been reddemed
 
 ! Can only be redeemed while in jail with 2+ turns: add 2 jail turns
+
+! 3 Reds  2 White, non bluffed . 2 pearls + 1 Extra Bluffed card
+
+
 
 
 Include **Power pearl** bank trade for a 1 of each! (2 pearls)
