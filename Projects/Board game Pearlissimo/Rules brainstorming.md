@@ -205,8 +205,7 @@ Redeemable lucky cards.
 !Reroll : Wheel of fortune
 
 !Snitch: Reveral a players hand, if illegal get out of jail
-
-
+Replaces poker face
 ### Changes
 
 - Insurance contract: Active only?
