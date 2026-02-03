@@ -247,14 +247,6 @@ You're immune to revealing cards and bluff but you can’t see your cards
 
 Voucher:
 
-!redeem 1 of the other vouchers without requirements or price (rainbow + stars) (achievement: chain in with 50% off), remove this voucher after use
-
-!auction pearl ( anyone can buy thz pearl), free voucher
-
-Ceo with 5 bm: remove 5bm
-
-Unicron protzction: except unicorns which vouchers have been reddemed
-
 ! Can only be redeemed while in jail with 2+ turns: add 2 jail turns
 
 ! 3 Reds  2 White, non bluffed . 2 pearls + 1 Extra Bluffed card
@@ -264,6 +256,5 @@ Unicron protzction: except unicorns which vouchers have been reddemed
 
 Include **Power pearl** bank trade for a 1 of each! (2 pearls)
 
-Victory cards should reroll
 
 Include trade mechanic?
