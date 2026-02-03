@@ -235,6 +235,16 @@ PLAYERS:
 - The Obsessed :  Start with +3 rainbow cards in your hand.
 - The Spiritual:  When doing a discard action with 2 or more Rainbow cards, get +1 Star and +1 Power Pearl
 
+/note
+Chaotic players 
+
+Discard 1 PP to fdraw up to your max hand size, start with 5pp, you cannot use your draw action.
+
+Any project  can be of 2 diffzrent colors, you can’t get stars in any other ways
+
+You're immune to revealing cards and bluff but you can’t see your cards
+
+
 Voucher:
 
 !redeem 1 of the other vouchers without requirements or price (rainbow + stars) (achievement: chain in with 50% off), remove this voucher after use
@@ -257,12 +267,3 @@ Include **Power pearl** bank trade for a 1 of each! (2 pearls)
 Victory cards should reroll
 
 Include trade mechanic?
-
-Chaotic players 
-
-Discard 1 PP to fdraw up to your max hand size, start with 5pp, you cannot use your draw action.
-
-Any project  can be of 2 diffzrent colors, you can’t get stars in any other ways
-
-You're immune to revealing cards and bluff but you can’t see your cards
-
