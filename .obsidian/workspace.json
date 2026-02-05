@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professionnal/Programming/React.md",
+                "file": "Professionnal/Companies to check.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "Companies to check"
             }
           }
         ]
@@ -205,10 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abc900925e806e34",
+  "active": "68287a723f986c62",
   "lastOpenFiles": [
-    "Professionnal/Programming/QProject Social Network.md",
+    "Screenshot_20260205_084621_LinkedIn.jpg",
     "Professionnal/Programming/React.md",
+    "Professionnal/Programming/QProject Social Network.md",
     "Professionnal/Skills and Cover Letter.md",
     "Projects/Board game Pearlissimo/Rules brainstorming.md",
     "Projects/Board game Pearlissimo/Unity Demonstration.md",
@@ -239,7 +240,6 @@
     "Books/BOOKS.md",
     "Misc/JOKES.md",
     "2026-01-31.md",
-    "Dungeons and Dragons/D100 Reward and magic items.md",
     "Dungeons and Dragons/A Whisper in the Light",
     "Dungeons and Dragons",
     "Untitled.canvas",
