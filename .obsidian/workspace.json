@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Routine.md",
+                "file": "Professionnal/Companies to check.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Routine"
+              "title": "Companies to check"
             }
           }
         ]
@@ -207,8 +207,10 @@
   },
   "active": "abc900925e806e34",
   "lastOpenFiles": [
-    "Professionnal/Companies to check.md",
+    "Professionnal/Programming/Typescript.md",
+    "Metasploit.md",
     "Routine.md",
+    "Professionnal/Companies to check.md",
     "Screenshot_20260205_084621_LinkedIn.jpg",
     "Professionnal/Programming/React.md",
     "Professionnal/Programming/QProject Social Network.md",
@@ -226,7 +228,6 @@
     "Traveling Anecdotes",
     "Learning",
     "Professionnal/Programming/Technical Skills and Portfolio Cover letter.md",
-    "Professionnal/Programming/Typescript.md",
     "Misc/Sketch board games.md",
     "Dungeons and Dragons/D&D Campaign suicide squad.md",
     "Misc",
