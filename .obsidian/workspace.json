@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professionnal/Companies to check.md",
+                "file": "Routine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Companies to check"
+              "title": "Routine"
             }
           }
         ]
@@ -205,8 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68287a723f986c62",
+  "active": "abc900925e806e34",
   "lastOpenFiles": [
+    "Professionnal/Companies to check.md",
+    "Routine.md",
     "Screenshot_20260205_084621_LinkedIn.jpg",
     "Professionnal/Programming/React.md",
     "Professionnal/Programming/QProject Social Network.md",
@@ -214,10 +216,8 @@
     "Projects/Board game Pearlissimo/Rules brainstorming.md",
     "Projects/Board game Pearlissimo/Unity Demonstration.md",
     "2026-02-01.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Projects/Board game Pearlissimo/Playtesting.md",
-    "Professionnal/Companies to check.md",
     "Movies/LIST.md",
     "Movies",
     "Professionnal/Programming/DevOps.md",
@@ -252,7 +252,6 @@
     "image 11.png",
     "image 10.png",
     "image 9.png",
-    "image 8.png",
-    "image 7.png"
+    "image 8.png"
   ]
 }
