@@ -10,6 +10,7 @@
           {
             "id": "ca65f5c04da6f22e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,11 +18,27 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "POEME DIANA"
             }
+          },
+          {
+            "id": "25b65132dbb69fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Professionnal/Companies to check.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Companies to check"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,9 +187,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca65f5c04da6f22e",
+  "active": "25b65132dbb69fd3",
   "lastOpenFiles": [
-    "2026-02-01.md",
-    "Poems/POEME DIANA.md"
+    "Projects/Download music locally.md",
+    "Projects/Board game Pearlissimo/Unity Demonstration.md",
+    "Professionnal/Programming/QProject Social Network.md",
+    "Professionnal/Programming/DevOps.md",
+    "Movies/LIST.md",
+    "Movies",
+    "Screenshot_20260205_084621_LinkedIn.jpg",
+    "Poems/Poeme Anna.md",
+    "Professionnal/Programming/List of Projects.md",
+    "Poems/Poeme marta.md",
+    "Professionnal/Companies to check.md",
+    "Poems/POEME DIANA.md",
+    "Professionnal/Skills and Cover Letter.md",
+    "2026-02-01.md"
   ]
 }
