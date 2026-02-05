@@ -34,7 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Projects/Board game Pearlissimo": "🎮",
   "Dungeons and Dragons/D&D Campaign suicide squad.md": "LiDice",
   "Books": "📚",
   "Dungeons and Dragons": "🐉",
@@ -45,5 +44,6 @@
   "Learning": "LiLightbulb",
   "Projects": "🔠",
   "Traveling Anecdotes": "LiPlane",
-  "Movies": "🎥"
+  "Movies": "🎥",
+  "Board game Pearlissimo": "🎮"
 }
