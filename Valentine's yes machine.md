@@ -30,3 +30,7 @@ Screen 9: "Guess what movie it is", have a picture of the Yes man movie and a te
 Screen 10: A bunch of small yes buttons covering up the entirety of the screen in all sizes shapes and angles, with 1 little red button being lost in it all.
 
 Screen 11: A modal appears with some funny text about terms and conditions with a few funny paragraphs about our date, scrolling down to the endo f paragraph reveals 2 buttons "Agree", "Not Disagree" both counteing as Yes when Clicked. There's a classic close icon button at the top right which when pressed, counts as a no.
+
+Scene 12: Let's draw a trolley problem on that one. Let's assume we use an empty trolley image problem as the background then put the Yes and No respectively on the end of each track (the yes being on the straight track). Where the lever is is a button we can press to swi taking the path according if the lever is pressed. If the lever is pressed after arriving to the inttch the path. We also have an animated trolley arriving at the intersection after 5 seconds and thenersection, then 2 seconds after, the no will be "clicked", otherwise ti'll be the yes.  The text reads "This is a trolley problem, the trolley is on the right track and will arrive safely to our date. Please set back and relax. We don't want it to crash."
+
+Scene 13: Let's have a big scrolling text like the Star Wars Opening styles. There are 2 paragraphs detailing how the world is at an end and we're the last 2 people on earth with the task 
