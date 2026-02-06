@@ -36,3 +36,7 @@ Scene 12: Let's draw a trolley problem on that one. Let's assume we use an empty
 Scene 13: Let's have a big scrolling text like the Star Wars Opening styles. There are 2 paragraphs detailing how the world is at an end and we're the last 2 people on earth with the task of repopulatin earth. Below the 2 paragraphs will appear a big column of 4 consecutive yes buttons, then a small no button, then 4 more yes buttons? THen stop. All buttons are functional.
 
 Scene 14: 2 normally positioned Yes and No button. However when approaching the cursor close to the no button, the button will smoothyl go to the direction opposite to the cursor as if trying to escape, in a way that the only way to escape it is to trap the button in a corner.
+
+Scene 15: This one will be tough, we have a blank canvas in the middle of the screen
+
+Scene 16: 
