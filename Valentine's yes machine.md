@@ -12,6 +12,7 @@ Super hard math proble but thzre's no in it
 Give carrot to rabbit or knife him, censored 
 Draw the word yes or no
 
+Screen 1: "Will you be my Valentine? :LiHeart:  "
 Screen 2 : "OOps you misclicked, try clicking Yes again." Nothing else changes.
 Screen 3: "Haha very funny, click yes please" Make the green button a bit bigger
 Screen 4: Make the green button even bigger and the red button slightly less big.
