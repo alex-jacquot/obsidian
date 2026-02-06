@@ -39,4 +39,4 @@ Scene 14: 2 normally positioned Yes and No button. However when approaching the 
 
 Scene 15: This one will be tough, we have a blank canvas in the middle of the screen
 
-Scene 16: 
+Scene 16: Normal buttons. Would you be against the hypothetical idea of not refusing the idea of not going on a date with me?
