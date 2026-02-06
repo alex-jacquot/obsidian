@@ -18,3 +18,9 @@ Screen 3: "Haha very funny, click yes please" Make the green button a bit bigger
 Screen 4: Make the green button even bigger and the red button slightly less big.
 Screen 5: Make the Green Button take the entirety of the screen and a tiny red No button on the bottom right corner.
 Screen 6: Put Yes in the exact middle of the screen and give it the drag property, with the obvious hand drag cursor on hover. Put the No button under this yes button, you have to drag the yes button away to click the Nope button.
+
+Screen 7: "Alright then, you can rack your brain solving this math problem or you can just ,you know, press Yes.." "Put the Yes button, and below it a math problem: "(26+6-8)*2" with an input box next to it, if the text box has the correct answer, it counts as if the No is clicked.
+
+Screen 8:  "Guess what? I removed the No button. Good luck trying not pressing Yes." There is a Yes button but no No Button. The No from the text looks like the rest of text and actually glows red when hovering it. When pressed, it counts as clicking the No button.
+
+Screen 9: "Wou"
