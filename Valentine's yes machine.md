@@ -23,4 +23,6 @@ Screen 7: "Alright then, you can rack your brain solving this math problem or yo
 
 Screen 8:  "Guess what? I removed the No button. Good luck trying not pressing Yes." There is a Yes button but no No Button. The No from the text looks like the rest of text and actually glows red when hovering it. When pressed, it counts as clicking the No button.
 
-Screen 9: "Wou"
+Screen 9: "Would you like not to be my Valentine?", Yes and No button are normal but clicking Yes means No and Vice Versa.
+
+Screen 10: 
