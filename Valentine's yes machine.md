@@ -40,3 +40,7 @@ Scene 14: 2 normally positioned Yes and No button. However when approaching the 
 Scene 15: This one will be tough, we have a blank canvas in the middle of the screen
 
 Scene 16: Normal buttons. Would you be against the hypothetical idea of not refusing the idea of not going on a date with me?
+
+Let's generate scene 17, with a showcased ridiculous super hard math problem with integrals, complicatited fractions with exponents extending for 2 lines, but 2 of the variables are "N" and "o" and happen to be next to each other and when clicking, trigger the No effect. There's an input box that shakes on any result since you're not supposed to have the answer to that , and a "yes, give up" button below.
+
+Scene 18: Let's generate a contin
