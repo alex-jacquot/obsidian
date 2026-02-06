@@ -11,6 +11,95 @@ Math problem
 Super hard math proble but thzre's no in it
 Give carrot to rabbit or knife him, censored 
 Draw the word yes or no
+### 1. Maze Cursor Scene
+
+- Idea: Full-screen maze drawn as thin walls. A big Yes sits clearly at the exit.
+
+- No mechanic: Somewhere inside the maze walls, there’s a tiny hidden door labelled “Emergency Exit” (looks like part of the wall). Only by threading the cursor through a specific narrow corridor can you reach the small No button inside that door.
+
+### 2. Zooming Text Scene
+
+- Idea: Giant “YES” word in the center, slowly pulsing.
+
+- No mechanic: The No button is actually formed by two letters “N” and “o” inside a huge block of lorem ipsum below. When you hover near them, the camera/zoom slightly changes so you have to carefully position to click exactly on the “No” glyph before it shrinks again.
+
+### 3. Physics Stack Scene
+
+- Idea: Stack of draggable boxes and shapes, with “YES” printed clearly on a big central block.
+
+- No mechanic: The No button is at the bottom, covered by all the blocks. Only by dragging and balancing the pieces without dropping them off-screen can you uncover the small No button and click it before a short timer restacks everything.
+
+### 4. Where’s No-do Scene
+
+- Idea: Crowd of small characters / emojis with speech bubbles saying “yes”, “absolutely”, “of course”.
+
+- No mechanic: Exactly one speech bubble somewhere says “no”. Clicking that bubble (not a visible button) fires the No action. Everything moves slightly, so you have to scan carefully.
+
+### 5. Slider Consent Scene
+
+- Idea: A large “consent” slider: left end is “No”, right end is “Yes”.
+
+- No mechanic: By default, the knob is near Yes and springs toward Yes when you drag it. Only if you drag it all the way left in a single smooth motion (no pauses) will it “lock” into the No position and produce No; any hesitation snaps it back to Yes.
+
+### 6. Typing Autocomplete Scene
+
+- Idea: Input field with strong autocomplete: as you type “N…”, it auto-completes to “Yes” and a big Yes button lights up.
+
+- No mechanic: If you type “no” very quickly without pausing, or if you type “N” then hit backspace and then “o”, it briefly reveals a tiny No button under the field that disappears after a second.
+
+### 7. Mirror Scene
+
+- Idea: Two side-by-side panels that mirror each other. Whenever you move the cursor in one, a ghost cursor moves symmetrically in the other.
+
+- No mechanic: Visible Yes button on one side; No button exists only in the mirrored side but is hidden behind a mirrored element. You must exploit the mirrored movement (e.g. aiming your real cursor off-screen) so the ghost cursor lands exactly on the hidden No.
+
+### 8. Progress Bar Trap Scene
+
+- Idea: A progress bar that fills toward “Yes” with a big Yes button at 100%.
+
+- No mechanic: A tiny clickable notch in the bar labelled “No” appears only at exactly 42% progress, for a fraction of a second. You can slow the bar by moving the mouse in a certain region, giving you a shot at hitting the No notch.
+
+### 9. Zoomed-Out Map Scene
+
+- Idea: Big map (like a city or dungeon) with a huge Yes marker close to you.
+
+- No mechanic: A tiny red No pin exists far off in a corner. You have to zoom and pan around to find it; when zoomed out, hovering its approximate area shows a faint red glow clue. The click target is tiny unless you zoom to the maximum.
+
+### 10. Color-Filter Scene
+
+- Idea: Everything is in grayscale except the green Yes button, which glows.
+
+- No mechanic: The No button is the same color as the background and only becomes visible if you press and hold a “color filter” toggle (e.g. an eye icon). While holding the mouse down, colors invert and reveal the No button in red—but you must move and click it before releasing, or it vanishes again.
+
+### 11. Musical Notes Scene
+
+- Idea: Several musical notes / keys you can click to play sounds; clicking the right melody plays a “Yes” jingle and lights up the big Yes button.
+
+- No mechanic: Only by playing a very specific (hinted) descending three-note pattern does a tiny No button appear atop the staff for a brief duration.
+
+### 12. Hidden Hover Path Scene
+
+- Idea: Empty-looking screen with just a Yes button.
+
+- No mechanic: Moving the cursor along a certain “hidden path” (e.g. tracing a heart or question mark) gradually reveals an outline; completing the path fades in the No button at the end of the trace.
+
+### 13. Puzzle Grid Scene
+
+- Idea: A 4×4 grid of tiles; flipping them reveals fragments of the word “YES”.
+
+- No mechanic: Only one tile hides the letters “N” and “o” very faintly; you must flip tiles in a given pattern (hinted in the text) to reach that tile. Clicking that tile while the correct pattern is active triggers No; otherwise it acts like a normal tile.
+
+### 14. Reaction-Time Scene
+
+- Idea: Giant countdown that always ends with “YES!” and a big Yes button.
+
+- No mechanic: Just before the timer hits zero, for ~150 ms, the Yes text flips to “NO” and the button turns red; clicking during that tiny window counts as No. Almost impossible to hit without intentionally anticipating it.
+
+### 15. Drag-and-Drop Contract Scene
+
+- Idea: Stylized “contract” that you have to sign by dragging a big Yes stamp onto it.
+
+- No mechanic: If instead you drag the stamp and precisely hit a tiny “fine print” line in the corner, that line becomes a No button; clicking the line then triggers No.
 
 Screen 0: "Will you be my Valentine? :LiHeart:  "
 Screen 1 : "OOps you misclicked, try clicking Yes again." Nothing else changes.
